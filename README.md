@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **student in Class 12**
+- 🔭 I’m currently a **student in Class 12.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms & Networking Concepts**
+- 🌱 I’m currently learning **Data Structures and Algorithms & Networking Concepts.**
 
-- 👯 I’m looking to collaborate on **GNU/Linux, Desktop Ricing, Vim related topics**
+- 👯 I’m looking to collaborate on **Data Structure & Algorithms, Vim Plugins, Python, MySQL.**
 
 - 🤔 I’m looking for help with **nothing specific right now 😅**
 
