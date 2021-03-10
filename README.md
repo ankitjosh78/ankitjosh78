@@ -25,4 +25,4 @@
 [![Ankit Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitjosh78)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub Streak
-[![Ankit Josh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitjosh78)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitjosh78&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
