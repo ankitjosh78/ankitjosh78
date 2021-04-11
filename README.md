@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **student in Class 12.**
+- 🔭 I’m currently a **student in Class 12 in my final month.**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and Networking Concepts.**
+- 🌱 I’m currently learning **Data Structures and some Networking Concepts.**
 
-- 👯 I’m looking to collaborate on **Data Structures & Algorithms, Vim Plugins, Python, MySQL.**
+- 👯 I’m looking to collaborate on **Data Structures & Algorithms, Python, MySQL, Shell scripting.**
 
-- 🤔 I’m looking for help with **Data Structures & Algorithms.**
+- 🤔 I’m looking for help with **Algorithms.**
 
 - 💬 Ask me about **things that I know.**
 
