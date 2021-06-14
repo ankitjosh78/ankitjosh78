@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **student in Class 12 in my final month.**
+- 🔭 I’m currently a **student in Class 12 whose exams got cancelled :).**
 
 - 🌱 I’m currently learning **Data Structures and some Networking Concepts.**
 
