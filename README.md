@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms and Math.**
 
-- 👯 I’m looking to collaborate on **Data Structures & Algorithms, C++, Python, MySQL, Shell scripting or anything related to Linux.**
+- 👯 I’m looking to collaborate on **DS & Algo, C++, Python, MySQL, Shell scripting or anything related to Linux.**
 
 - 🤔 I’m looking for help with **nothing right now.**
 
