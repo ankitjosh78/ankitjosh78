@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently a **student in Class 12 whose exams got cancelled :)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and some Math.**
+- 🌱 I’m currently learning **Data Structures & Algorithms and Math.**
 
-- 👯 I’m looking to collaborate on **Data Structures & Algorithms, Python, MySQL, Shell scripting.**
+- 👯 I’m looking to collaborate on **Data Structures & Algorithms, C++, Python, MySQL, Shell scripting or anything related to Linux.**
 
-- 🤔 I’m looking for help with **Algorithms.**
+- 🤔 I’m looking for help with **nothing right now.**
 
 - 💬 Ask me about **things that I know.**
 
