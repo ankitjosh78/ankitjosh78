@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DS & Algo, C++, Python, MySQL, Bash scripting.**
 
-- 🤔 I’m looking for help in **making some real world applications using Django.**
+- 🤔 I’m looking for help in **making some real world applications using C++.**
 
 - 💬 Ask me about **things that I know.**
 
