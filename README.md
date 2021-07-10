@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming.**
 
-- 👯 I’m looking to collaborate on **some real world application using Python/C++/SQL.**
+- 👯 I’m looking to collaborate on **DS & Algo, real world applications using Python/C++.**
 
 - 🤔 I’m looking for help in **nothing right now.**
 
