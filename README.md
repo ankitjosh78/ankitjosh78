@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently a **student in Class 12 whose exams got cancelled :)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, C++ and Django.**
+- 🌱 I’m currently learning **Competitive Programming.**
 
-- 👯 I’m looking to collaborate on **DS & Algo, C++, Python, MySQL, Bash scripting.**
+- 👯 I’m looking to collaborate on **some real world application using Python/C++/SQL.**
 
-- 🤔 I’m looking for help in **making some real world applications using C++.**
+- 🤔 I’m looking for help in **nothing right now.**
 
-- 💬 Ask me about **things that I know.**
+- 💬 Ask me about **Python, SQL, Linux, Shell/Bash, C++.**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
