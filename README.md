@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently a **student in Class 12 whose exams got cancelled :)**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and C++.**
+- 🌱 I’m currently learning **Data Structures & Algorithms, C++ and Django.**
 
 - 👯 I’m looking to collaborate on **DS & Algo, C++, Python, MySQL, Bash scripting.**
 
-- 🤔 I’m looking for help in **making some real world applications using C++.**
+- 🤔 I’m looking for help in **making some real world applications using Django.**
 
 - 💬 Ask me about **things that I know.**
 
