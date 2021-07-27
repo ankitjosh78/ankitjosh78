@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **student in Class 12 whose exams got cancelled :)**
+- 🔭 I’m currently a **high school graduate.**
 
-- 🌱 I’m currently learning **Competitive Programming.**
+- 🌱 I’m currently learning **Competitive Programming and Django.**
 
-- 👯 I’m looking to collaborate on **DS & Algo, real world applications using Python/C++.**
-
-- 🤔 I’m looking for help in **nothing right now.**
+- 👯 I’m looking to collaborate on **DS & Algo or Projects using Python/C++.**
 
 - 💬 Ask me about **Python, SQL, Linux, Shell/Bash, C++.**
 
