@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **high school graduate.**
+- 🔭 I’m currently a **Class 12 Passout.**
 
-- 🌱 I’m currently learning **Competitive Programming and Django.**
+- 🌱 I’m currently learning **Competitive Programming.**
 
 - 👯 I’m looking to collaborate on **DS & Algo or Projects using Python/C++.**
 
