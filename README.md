@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently a **Class 12 Passout.**
 
-- 🌱 I’m currently learning **Competitive Programming.**
-
-- 👯 I’m looking to collaborate on **DS & Algo or Projects using Python/C++.**
+- 👯 I’m looking to collaborate on **various Open Source Projects using Python/C++ and other languages.**
 
 - 💬 Ask me about **Python, SQL, Linux, Shell/Bash, C++.**
 
