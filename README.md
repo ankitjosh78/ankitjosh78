@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **Class 12 Passout.**
+- 🔭 I’m currently a **Computer Science undergrad.**
 
-- 👯 I’m looking to collaborate on **various Open Source Projects using Python/C++ and other languages.**
+- 👯 I’m keen about **Software Development.**
 
-- 💬 Ask me about **Python, SQL, Linux, Shell/Bash, C++.**
+- 💬 Ask me about **Python, SQL, Unix, Shell Scripts, C++.**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
