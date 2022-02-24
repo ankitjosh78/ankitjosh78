@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **Computer Science undergrad.**
+- 🔭 I’m currently a **freshman at Sir M Visvesvaraya Institute of Technology.**
 
-- 👯 I’m keen about **Software Development.**
+- ✅ I'm well versed in **Data Structures & Algorithms** in **C++** and **Python.**
 
-- 💬 Ask me about **Python, SQL, Unix, Shell Scripts, C++.**
+- 👯 I’m keen about **Software Development and Mathematics.**
+
+- 💬 Ask me about **Python, SQL, Unix, Shell Scripts, C++, Algorithms**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
