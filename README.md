@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently a **freshman at Sir M Visvesvaraya Institute of Technology.**
 
-- ✅ I'm well versed in **Data Structures & Algorithms** in **C++** and **Python.**
+- ✅ I'm well versed in **Data Structures & Algorithms**
 
-- 👯 I’m keen about **Software Development and Mathematics.**
+- 👯 I’m keen about **Software Development and Algorithmic Puzzles.**
 
 - 💬 Ask me about **Python, SQL, Unix, Shell Scripts, C++, Algorithms**
 
