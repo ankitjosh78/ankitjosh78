@@ -7,9 +7,9 @@
 
 - ✅ I'm well versed in **Data Structures & Algorithms.**
 
-- 👯 I’m keen about **Software Development and Algorithmic Puzzles.**
+- 👯 I’m keen about **Software Development.**
 
-- 💬 Ask me about **Python, SQL, Unix, Shell Scripts, C++, Algorithms**
+- 💬 Ask me about **Python, C++, Algorithms and DS, SQL, Shell Scripts.**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
