@@ -9,7 +9,7 @@
 
 - 👯 I’m keen about **Software Development.**
 
-- 💬 Ask me about **Python, C++, Algorithms and DS, SQL, Shell Scripts.**
+- 💬 Ask me about **Python, C++, Algorithms and Data Structures, SQL, Shell Scripts.**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
