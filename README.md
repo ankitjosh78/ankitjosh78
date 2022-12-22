@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **freshman at Sir M. Visvesvaraya Institute of Technology.**
+- 🔭 I’m currently a **2nd year student at Sir M. Visvesvaraya Institute of Technology.**
 
 - ✅ I'm well versed in **Data Structures & Algorithms.**
 
