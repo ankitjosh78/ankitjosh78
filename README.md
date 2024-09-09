@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m currently a **3rd year student under Visvesvaraya Technological University.**
+- 🔭 I’m a **final year engineering student at Sir M. Visvesvaraya Institute of Technology.**
 
-- ✅ I'm well versed in **Data Structures & Algorithms.**
+- ✅ I'm well versed in **competitive programming and backend development.**
 
-- 👯 I’m keen about **Backend Development.**
+- 👯 I’m keen about **software development and building products.**
 
-- 💬 Ask me about **Python, C++, Algorithms and Data Structures, SQL, Shell Scripts.**
+- 💬 Ask me about **Python, C++, DSA, Django/Flask, Go**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
