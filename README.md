@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjosh78&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjosh78" /> </p>
 
-- 🔭 I’m a **final year engineering student at Sir M. Visvesvaraya Institute of Technology.**
+- 🔭 I’m a **Software Development Engineer** at DataCore Software.
 
-- ✅ I'm well versed in **competitive programming and backend development.**
+- ✅ I'm well versed in **competitive programming, backend development and genAI applications.**
 
-- 👯 I’m keen about **software development and building products.**
-
-- 💬 Ask me about **Python, C++, DSA, Django/Flask, Go**
+- 👯 I’m keen about **AI and building scalable and efficient systems..**
 
 - 📫 How to reach me 
   - [LinkedIn](https://in.linkedin.com/in/ankitjosh78)
