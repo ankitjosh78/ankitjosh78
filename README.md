@@ -7,7 +7,7 @@ Backend • Distributed Systems • AI Applications
 
 <p align="center">
 <a href="https://in.linkedin.com/in/ankitjosh78">LinkedIn</a> •
-<a href="mailto:ankitjosh78@protonmail.com">Email</a>
+<a href="mailto:ankitjosh78@gmail.com">Email</a>
 </p>
 
 ---
